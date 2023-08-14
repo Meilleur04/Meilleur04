@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://thegurmannsingh.tech)
+[![MasterHead](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)](https://thegurmannsingh.tech)
 
 <h1 align="center">Hi 👋, I'm Gurmann Singh Jaggi</h1>
 <h3 align="center">I am a passionate Software Engineer and a UofT engineering student, with a strong focus on Full Stack Development and Machine Learning. Constantly seeking innovative solutions and driven by curiosity, I am dedicated to honing my skills and contributing to the world of technology.</h3>
