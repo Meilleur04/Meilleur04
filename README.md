@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Gurmann Singh Jaggi</h1>
 <h3 align="center">I am an aspiring Software Engineer and a UofT engineering student, with a strong focus on Full Stack Development and Machine Learning. Constantly seeking innovative solutions and driven by curiosity, I am dedicated to honing my skills and contributing to the world of technology.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0zv3XskeIIjBI9V4xGwbZr&ust=1704748171664000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiwmPyXzIMDFQAAAAAdAAAAABAD">
-
 - 🌱 I’m currently learning **DevOps & AI**
 
 - 👨‍💻 All of my projects are available at [https://thegurmannsingh.tech](https://thegurmannsingh.tech)
