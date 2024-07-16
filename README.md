@@ -1,17 +1,13 @@
-[![MasterHead](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)](https://thegurmannsingh.tech)
-
 <h1 align="center">Hi 👋, I'm Gurmann Singh Jaggi</h1>
-<h3 align="center">I am an aspiring Software Engineer and a UofT engineering student, with a strong focus on Full Stack Development and Machine Learning. Constantly seeking innovative solutions and driven by curiosity, I am dedicated to honing my skills and contributing to the world of technology.</h3>
+<h3 align="center">I am an aspiring Software Engineer and a UofT engineering student, with a strong focus on Development and Machine Learning. Constantly seeking innovative solutions and driven by curiosity, I am dedicated to honing my skills and contributing to the world of technology.</h3>
 
-- 🌱 I’m currently learning **DevOps & AI**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
-- 👨‍💻 All of my projects are available at [https://thegurmannsingh.tech](https://thegurmannsingh.tech)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/meilleur04)
 
 - 💬 Ask me about **anything 🧐 !**
 
-- 📫 How to reach me **gurmannsingh82@gmail.com**
-
-- 📄 Know about my experiences [https://thegurmannsingh.tech/#/resume](https://thegurmannsingh.tech/#/resume)
+- 📫 How to reach me **Gurmannsingh82@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
